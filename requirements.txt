@@ -1,0 +1,8 @@
+requests
+google-cloud-secret-manager
+google-cloud-bigquery
+
+# Needed locally only
+gcloud
+pytest
+requests_mock

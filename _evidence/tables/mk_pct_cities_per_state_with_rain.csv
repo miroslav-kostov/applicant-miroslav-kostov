@@ -1,0 +1,50 @@
+date,state,pct_cities_with_rain
+2024-01-01,South Dakota,0.0
+2024-01-01,Montana,0.0
+2024-01-01,Michigan,0.0
+2024-01-01,North Dakota,0.0
+2024-01-01,Minnesota,0.0
+2024-01-01,Nebraska,0.0
+2024-01-01,Oregon,0.0
+2024-01-02,Michigan,100.0
+2024-01-02,Oregon,100.0
+2024-01-02,South Dakota,0.0
+2024-01-02,Montana,0.0
+2024-01-02,North Dakota,0.0
+2024-01-02,Minnesota,0.0
+2024-01-02,Nebraska,0.0
+2024-01-03,Michigan,100.0
+2024-01-03,Minnesota,100.0
+2024-01-03,Oregon,100.0
+2024-01-03,South Dakota,0.0
+2024-01-03,Montana,0.0
+2024-01-03,North Dakota,0.0
+2024-01-03,Nebraska,0.0
+2024-01-04,Oregon,100.0
+2024-01-04,South Dakota,0.0
+2024-01-04,Montana,0.0
+2024-01-04,Michigan,0.0
+2024-01-04,North Dakota,0.0
+2024-01-04,Minnesota,0.0
+2024-01-04,Nebraska,0.0
+2024-01-05,Michigan,100.0
+2024-01-05,Minnesota,100.0
+2024-01-05,Nebraska,100.0
+2024-01-05,Oregon,100.0
+2024-01-05,North Dakota,50.0
+2024-01-05,South Dakota,0.0
+2024-01-05,Montana,0.0
+2024-01-06,South Dakota,100.0
+2024-01-06,Michigan,100.0
+2024-01-06,North Dakota,100.0
+2024-01-06,Minnesota,100.0
+2024-01-06,Nebraska,100.0
+2024-01-06,Oregon,100.0
+2024-01-06,Montana,0.0
+2024-01-07,Montana,100.0
+2024-01-07,Michigan,100.0
+2024-01-07,Oregon,100.0
+2024-01-07,South Dakota,0.0
+2024-01-07,North Dakota,0.0
+2024-01-07,Minnesota,0.0
+2024-01-07,Nebraska,0.0
